@@ -3,10 +3,8 @@
 For additional information, please google "Artificial Neural Networks" to your heart's content.
 
 
-## Project layout
+## Table of Contents
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation landing page.
-        about.md  # The purpose behind this project.
-        neural_nets.md # A description of Neural Networks. 
+* Home: The documentation landing page.
+* About: The purpose behind this project.
+* Neural Nets: A description of Neural Networks. 

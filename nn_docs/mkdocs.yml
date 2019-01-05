@@ -2,4 +2,5 @@ site_name: Neural Network Documentation
 nav:
   - Home: index.md
   - About: about.md
-theme: readthedocs
+  - Neural Networks: nn.md
+
